@@ -1,0 +1,6 @@
+git status
+git remote add origin
+git branch (melyik ágon vagyunk)
+git branch -m Main (branch/ág átnevezése main-re)
+git push (ahol állunk-felküldeni)
+"git push --set upstream-origin main" = "git push -u origin Main"
